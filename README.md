@@ -1,0 +1,2 @@
+# radiocognitiva
+Proyecto de grado
